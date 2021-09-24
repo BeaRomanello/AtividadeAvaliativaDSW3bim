@@ -1,0 +1,73 @@
+.nav-link{
+            margin: 0 50px;
+            
+
+}
+.cartao1{
+    display: inline-block;
+    margin: 30px 20px;
+}
+.cartao2{
+    display: inline-block;
+    margin: 30px 20px;
+}
+.cartao3{
+    display: inline-block;
+    margin: 30px 20px;
+}
+.cartao4{
+    display: inline-block;
+    margin: 30px 20px;
+}
+.cartao5{
+    display: inline-block;
+    margin: 0 40px 20px 90px;
+}
+.cartao6{
+    display: inline-block;
+    margin: 0 60px;
+}
+.cartao7{
+    display: inline-block;
+     margin: 30px 20px 10px 30px; 
+}
+.cartao8{
+    display: inline-block;
+    margin: 30px 20px; 
+}
+.cartao9{
+    display: inline-block;
+    margin: 30px 20px;
+}
+.cartao10{
+    display: inline-block;
+    margin: 30px 20px;
+}
+.botao1{
+    margin-top: 10px;
+}
+.plimpeza{
+    width: 1050px;
+    height: 300px;
+    margin: 20px 140px;
+    overflow: scroll;
+    border-radius: 10px;
+    background-color: lightblue;
+    font-style: oblique;
+    padding: 15px;
+}
+#videos{
+    text-align: center;
+}
+.videopiso{
+    display: inline-block;
+    margin: 40px 40px 40px 80px;
+
+}
+.videopedra{
+    display: inline-block;
+    margin: 50px;
+}
+footer{
+    text-align: center;
+}
